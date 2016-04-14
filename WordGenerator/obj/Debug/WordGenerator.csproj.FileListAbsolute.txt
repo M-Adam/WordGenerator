@@ -1,0 +1,14 @@
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe.config
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\WordGenerator.pdb
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\obj\Debug\WordGenerator.csprojResolveAssemblyReference.cache
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\obj\Debug\WordGenerator.exe
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\obj\Debug\WordGenerator.pdb
+E:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\slowa-win.txt
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe.config
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\obj\Debug\WordGenerator.exe
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\obj\Debug\WordGenerator.pdb
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\slowa-win.txt
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\bin\Debug\WordGenerator.pdb
+D:\OneDrive\Dokumenty\Code\C#\WordGenerator\WordGenerator\WordGenerator\obj\Debug\WordGenerator.csprojResolveAssemblyReference.cache
